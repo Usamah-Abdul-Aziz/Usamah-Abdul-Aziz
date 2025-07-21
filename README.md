@@ -74,9 +74,4 @@ Every dataset is a puzzle waiting to be solved.
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Usamah-Abdul-Aziz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 > _Let’s connect, collaborate, and build something amazing together!_
