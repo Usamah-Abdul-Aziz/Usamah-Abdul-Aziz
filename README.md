@@ -67,9 +67,9 @@ Every dataset is a puzzle waiting to be solved.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramadhafidz&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Usamah-Abdul-Aziz&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ramadhafidz&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhafidz&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usamah-Abdul-Aziz&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
